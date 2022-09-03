@@ -1140,15 +1140,3 @@ if [ "$SEARCH_IN_FOLDER" ] || echo $CHECKS | grep -q procs_crons_timers_srvcs_so
   printf ${YELLOW}"DONE\n"$NC
   echo ""
 fi
-
-
-
-
-
-
-
-
-
-
-
-
